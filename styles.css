@@ -1,2 +1,9 @@
-
+th{
+	background: darkgray;
+	text-align: left;
+	color: white;
+}
+td{
+	text-align: right;
+}
 /* Your CSS Code here. */
