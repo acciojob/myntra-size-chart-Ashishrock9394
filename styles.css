@@ -5,5 +5,8 @@ th{
 }
 td{
 	text-align: right;
+} 
+#right{
+	text-align: left;
 }
 /* Your CSS Code here. */
